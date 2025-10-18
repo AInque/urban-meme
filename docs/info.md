@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+-# When none of the inputs are 1, the 7 segment display will have a 0 on it.
 
 ## How to test
 
-Explain how to use your project
+Change the values around. They'll only do something when all of them are off.
 
 ## External hardware
 
